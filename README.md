@@ -1,4 +1,11 @@
 # Nsec-BloggerTemplate
 Template Blogger menggunakan minstyle.io
-sreenshot:
+
+## Sreenshot:
+
+### Dark Mode
 ![dark](screenshot/dark.png)
+
+
+### 
+![white](screenshot/white.png)
