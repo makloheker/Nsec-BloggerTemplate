@@ -7,5 +7,5 @@ Template Blogger menggunakan minstyle.io
 ![dark](screenshot/dark.png)
 
 
-### 
+### White Mode
 ![white](screenshot/white.png)
